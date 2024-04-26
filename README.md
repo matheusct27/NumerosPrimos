@@ -1,1 +1,1 @@
-Números primos em JAVA
+Números primos em JAVA.
